@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jerseytodo.iml" filepath="$PROJECT_DIR$/jerseytodo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jerseytodo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jerseytodo_main.iml" group="jerseytodo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jerseytodo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jerseytodo_test.iml" group="jerseytodo" />
+    </modules>
+  </component>
+</project>
