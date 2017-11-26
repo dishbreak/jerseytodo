@@ -1,0 +1,11 @@
+package com.dishbreak.jerseytodo.module;
+
+import com.dishbreak.jerseytodo.rest.TasksResource;
+import com.google.inject.AbstractModule;
+
+public class TasksModule extends AbstractModule{
+    @Override
+    protected void configure() {
+        bind(TasksResource.class);
+    }
+}
